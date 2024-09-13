@@ -1,0 +1,28 @@
+{
+  "name": "@hyperwp/svg-qr",
+  "version": "1.0.0",
+  "description": "SVG format QR Code generator",
+  "homepage": "https://github.com/hyperwp/qr-image",
+  "keywords": [
+    "qrcode",
+    "qr code",
+    "qr",
+    "svg",
+    "image"
+  ],
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyperwp/qr-image.git"
+  },
+  "bugs": "https://github.com/hyperwp/qr-image/issues",
+  "main": "./lib/qr.js",
+  "scripts": {
+    "test": "./tests/test.js"
+  },
+  "files": [
+    "lib",
+    "LICENSE"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "name": "@hyperwp/svg-qr",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "SVG format QR Code generator",
   "homepage": "https://github.com/hyperwp/qr-image",
   "keywords": [

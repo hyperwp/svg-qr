@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hyperwp/qr-image.git"
+    "url": "git+https://github.com/hyperwp/qr-image.git"
   },
   "bugs": "https://github.com/hyperwp/qr-image/issues",
   "main": "./lib/qr.js",

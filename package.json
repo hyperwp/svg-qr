@@ -23,6 +23,8 @@
   },
   "files": [
     "lib",
-    "LICENSE"
-  ]
+    "LICENSE",
+    "index.d.ts"
+  ],
+  "types": "./index.d.ts"
 }
